@@ -1,0 +1,11 @@
+<video width="1000" height="500" controls autoplay><source src="goalvids/welcome.mp4" type="video/mp4"></video>
+
+
+background-image:url("goal.com/img19.webp");
+	background-repeat: no-repeat;
+	background-size:cover;
+	height: 58%;
+	width: 100%;
+	border-radius:5px;
+	border-bottom-right-radius:0px;
+	border-bottom-left-radius:0px;
